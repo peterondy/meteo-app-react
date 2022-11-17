@@ -1,0 +1,9 @@
+.App {
+  background-image: url('./assets/cold-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  transition: 0.4 ease-out;
+}
+.App.warm{
+  background-image: url('./assets/warm-bg.jpg');
+}
