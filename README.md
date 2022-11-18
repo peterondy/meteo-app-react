@@ -7,5 +7,7 @@
 | `git clone https://github.com/peterondy/meteo-app-react.git`  | to download files from my repo |
 | `npm start`                   | start the app, go to http://localhost:3000 |
 
-<img src="https://drive.google.com/file/d/1Bjagu-CbVAUcoZAUlxQOXpdNNA_wCtaB/view?usp=sharing" alt="Algiers Front End" title="Algiers Front End">
+![This is an image](/src/assets/front-page.png)
+
+
 
