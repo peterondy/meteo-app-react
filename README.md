@@ -12,5 +12,14 @@
 # Front Page App
 ![This is an image](/src/assets/front-page.png)
 
+# London Search App
+![This is an image](/src/assets/london.png)
 
+# Paris Search App
+![This is an image](/src/assets/paris.png)
 
+# Algiers Search App
+![This is an image](/src/assets/algiers.png)
+
+# Dubai Search App
+![This is an image](/src/assets/dubai.png)
