@@ -6,3 +6,5 @@
 | `cd meteo`                    | enter to meteo directory |
 | `git clone https://github.com/peterondy/meteo-app-react.git`  | to download files from my repo |
 | `npm start`                   | start the app, go to http://localhost:3000 |
+
+![alt text]([http://url/to/img.png](https://github.com/peterondy/meteo-app-react/blob/main/src/assets/algiers.png))
